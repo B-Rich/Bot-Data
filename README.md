@@ -1,4 +1,4 @@
 Bot-Data
 =======
 
-Contains all the XML files required to run the bots
+Contains all the files required to run the bots
